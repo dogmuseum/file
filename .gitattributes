@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+        var a=['1','20','18','60','80']
+      	document.write(a.sort()+'<br />')
+      	document.write(a.sort(Number)+'<br />')
+      	document.write(a.sort(true)+'<br />')
